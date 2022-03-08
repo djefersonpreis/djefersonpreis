@@ -2,7 +2,7 @@
 
 <p>
     Trabalho com análise e desenvolvimento de sistemas, trabalhando principalmente com aplicações Mobile, 
-    utilizando Java (para Android) e Swift (para iOS), também tenho conhecimento e experiência com Java no desenvolvimento de APIs, com PHP no desenvolvimento de Sites (uma breve esperiência com o Framework Laravel), e com Java Script, tenho experiências com NodeJS, ReactJS e bastante interesse em outros frameworks. Atualmente estudando NestJS para o desenvolvimento de aplciações back-end.
+    utilizando Java (para Android) e Swift (para iOS), também tenho conhecimento e experiência com Java no desenvolvimento de APIs, com PHP no desenvolvimento de Sites (uma breve experiência com o Framework Laravel), e com Java Script tenho experiências com NodeJS, ReactJS e bastante interesse em outros frameworks. Atualmente estudando NestJS para o desenvolvimento de aplciações back-end.
   <br/>
   Possuo um conecimento intermediário em linguagens de Banco de Dados como PostgreSQL, Firebird e MySQL, participando dos processos de análise de DER para desenvolvimento de adequações. E também com o MongoDB e com o Google Firebase que são ambos "NoSQL".
 </p>
