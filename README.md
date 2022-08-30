@@ -1,13 +1,37 @@
-### Olá, Eu sou o Djeferson Preis 👋
+## Olá, Eu sou o Djeferson Preis 👋
+
+
+## Conhecimentos de tecnologias 
+Trabalho com análise e desenvolvimento de sistemas, trabalhando atualmente com : 
+- Java Script 
+ - NodeJS
+  - No desenvolvimento de Web Services voltao a aplicações Web da empresa onde trablho atualmente, utilizando NodeJS e Express para realizar as comunicações, tratamento de dados e respectivas ações necessárias.           
+ - NestJS 
+  - No desenvolvimento de APIs utilizadas em projetos pessoais tais como meu projeto de TC, utilizando bibliotecas como TypeORM para a comunicação com Banco de Dados, JWT para processos de autenticação entre outros processos.
+ - ReactJS
+  - No desenvolvimento de aplicações front end utilizando ReactJS, aproveitando a agilidade sobre a criação e reutilização dos componentes para manter um padrão geral em toda a estruturação dos projetos, seja nos projetos que execute na empresa onde trabalho ou em meu projeto de TC.
+- Java 
+ - API 
+ - Android Nativo
+- Swift 
+- PHP
+- Python
+ 
+Em relação a Bancos de Dados, possuo conhecimento e experiências tanto com a estruturação de modelos relacionais quando com a utilização prática intermediária com as seguintes linguagens:
+- Bancos Relacionais:
+ - PostgreSQL
+ - Firebird
+ - MySQL
+- Bancos de Dados não Relacionais:
+ - Firebase (Google)
+ - MongoDB
+ 
+----
 
 <p>
-    Trabalho com análise e desenvolvimento de sistemas, trabalhando principalmente com aplicações Mobile, 
-    utilizando Java (para Android) e Swift (para iOS), também tenho conhecimento e experiência com Java no desenvolvimento de APIs, com PHP no desenvolvimento de Sites (uma breve experiência com o Framework Laravel), e com Java Script tenho experiências com NodeJS, ReactJS e bastante interesse em outros frameworks. Atualmente estudando NestJS para o desenvolvimento de aplciações back-end.
-  <br/>
-  Possuo um conecimento intermediário em linguagens de Banco de Dados como PostgreSQL, Firebird e MySQL, participando dos processos de análise de DER para desenvolvimento de adequações. E também com o MongoDB e com o Google Firebase que são ambos "NoSQL".
-</p>
-<p>
-    Trabalhando há mais de 3 anos com programação em uma empresa relativamente pequena (com poucos desenvolvedores) realizando processos como:
+    Estudando e desenovlendo projetos pessoais simplificados desde 2015.
+    <br/>
+    Trabalhando ativamente desde 2018 com programação em uma empresa relativamente pequena (com poucos desenvolvedores) realizando processos como:
   <ul>
     <li>Desenvolvimento das aplicações (Sites, APIs e Aplicações da empresa);</li>
     <li>Padrões de documentações dos projetos;</li>
