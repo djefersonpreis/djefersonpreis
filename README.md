@@ -43,7 +43,7 @@
     <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white&style=flat" />
 </p>
 
-#### **Cloud and OS experience:**
+**Cloud and OS experience:**
 <p>
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital Ocean-0080FF?logo=digitalocean&logoColor=white&style=flat" />
@@ -52,56 +52,51 @@
     <img alt="Cent OS" src="https://img.shields.io/badge/Cent%20OS-262577?logo=CentOS&logoColor=white&style=flat" />
 </p>
 
-#### **Work OS Familiar with:**
+**Work OS Familiar with:**
 <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" />
     <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white&style=flat" />
 </p>
 
-#### **Complements:**
-
-<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=flat" />
-<img alt="Gitea" src="https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425&style=flat" />
-
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-<img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
-<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=flat" />
-
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat">
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white&style=flat" />
-<img alt="Portainer" src="https://img.shields.io/badge/Portainer-0BA5EC?logo=portainer&logoColor=white&style=flat" />
-
-<img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white&style=flat" />
-<img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=flat" />
-<img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-F22901?logo=cocoapods&logoColor=white&style=flat" />
-<img alt="Pypi" src="https://img.shields.io/badge/Pypi-3571A3?logo=pypi&logoColor=white&style=flat" />
-<img alt="Poetry" src="https://img.shields.io/badge/Poetry-0189DE?logo=poetry&logoColor=white&style=flat" />
-<img alt="Composer" src="https://img.shields.io/badge/Composer-9D7D54?logo=composer&logoColor=white&style=flat" />
-
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-ED8933?logo=grafana&logoColor=white&style=flat" />
-<img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-d40000?style=flat">
-
-<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600?&logo=rabbitmq&logoColor=white&style=flat" />
-<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-121011?&logo=apache-kafka&logoColor=white&style=flat">
-
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85ea2d?logo=swagger&logoColor=white&style=flat">
-
-<img alt="Maven" src="https://img.shields.io/badge/Maven-F26304?logo=apache-maven&logoColor=white&style=flat" />
-<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=flat" />
-
-<img alt="gRPC" src="https://img.shields.io/badge/gRPC-244b5a?logo=grpc&logoColor=white&style=flat" />
-<img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-00abc5?logo=protobuf&logoColor=white&style=flat" />
+**Complements:**
+<p>
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white&style=flat" />
+    <img alt="Gitea" src="https://img.shields.io/badge/Gitea-34495E?logo=gitea&logoColor=5D9425&style=flat" />
+    <br/>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+    <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+    <br/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" />
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=flat" />
+    <br/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white&style=flat" />
+    <img alt="Portainer" src="https://img.shields.io/badge/Portainer-0BA5EC?logo=portainer&logoColor=white&style=flat" />
+    <br/>
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white&style=flat" />
+    <img alt="Yarn" src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=flat" />
+    <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-F22901?logo=cocoapods&logoColor=white&style=flat" />
+    <img alt="Pypi" src="https://img.shields.io/badge/Pypi-3571A3?logo=pypi&logoColor=white&style=flat" />
+    <img alt="Poetry" src="https://img.shields.io/badge/Poetry-0189DE?logo=poetry&logoColor=white&style=flat" />
+    <img alt="Composer" src="https://img.shields.io/badge/Composer-9D7D54?logo=composer&logoColor=white&style=flat" />
+    <br/>
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white&style=flat" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-ED8933?logo=grafana&logoColor=white&style=flat" />
+    <img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-d40000?style=flat">
+    <br/>
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600?&logo=rabbitmq&logoColor=white&style=flat" />
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-121011?&logo=apache-kafka&logoColor=white&style=flat">
+    <br/>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85ea2d?logo=swagger&logoColor=white&style=flat">
+    <br/>
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-F26304?logo=apache-maven&logoColor=white&style=flat" />
+    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=flat" />
+    <br/>
+    <img alt="gRPC" src="https://img.shields.io/badge/gRPC-244b5a?logo=grpc&logoColor=white&style=flat" />
+    <img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-00abc5?logo=protobuf&logoColor=white&style=flat" />
 </p>
-
-  
-
-
-
 
 <div>
   <a href="https://github.com/djefersonpreis">
