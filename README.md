@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Djeferson</h1>
-<h3 align="center">I'm a programmer analyst and full-stack developer, with 5 years of experience.</h3>
-<h3 align="center"> Graduted in Information Systems at UNIDAVI.</h3>
+<h3 align="center">I'm a analyst and full-stack developer, with 5 years of experience.</h3>
+<h3 align="center">Graduted in Information Systems at UNIDAVI.</h3>
 
 ### **Principal stack knowledge:**
 <p>
