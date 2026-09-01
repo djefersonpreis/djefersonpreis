@@ -93,12 +93,3 @@ FIAP Machine Learning Engineering tech challenges, one per phase of the course:
 **Package managers and build tools:** npm · Yarn · pip / PyPI · Poetry · Composer · CocoaPods · Maven · Gradle
 
 </details>
-
-## GitHub stats
-
-<div align="center">
-  <a href="https://github.com/djefersonpreis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djefersonpreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djefersonpreis&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-  </a>
-</div>
